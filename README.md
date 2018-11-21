@@ -1,4 +1,8 @@
-# rfc6902
+>>>> Forked to handle the dates and mongodb Object Ids as strings
+
+# alynedJSONPatches
+
+## original: rfc6902
 
 [![latest version published to npm](https://badge.fury.io/js/rfc6902.svg)](https://www.npmjs.com/package/rfc6902)
 [![monthly downloads from npm](https://img.shields.io/npm/dm/rfc6902.svg?style=flat)](https://www.npmjs.com/package/rfc6902)
